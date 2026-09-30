@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://0hieutrung0-eng.github.io/sitemap.xml
